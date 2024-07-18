@@ -1,0 +1,2 @@
+# Diabetes_Prediction_with_gridsearch_and_bayesian_opimization
+This project utilizes SVM to predict diabetes using the PIMA Diabetes dataset. It includes data preprocessing, model training with hyperparameter tuning through gridsearchCV and bayesian optimization, and evaluation using accuracy metrics and visualizations. The SVM model achieves robust performance in predicting diabetes based on health metrics.
