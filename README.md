@@ -1,4 +1,4 @@
-# Diabetes_Prediction_with_gridsearchCV_and_bayesian_opimization
+# Diabetes_Prediction_with_gridsearchCV_and_bayesian_opimization (DiabOptiSVM)
 ## Description
 This project uses Support Vector Machines (SVM) to predict diabetes based on the PIMA Diabetes dataset. It involves data preprocessing, model training, hyperparameter tuning using GridSearchCV and Bayesian Optimization with scikit-optimize, and model evaluation.
 
