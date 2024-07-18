@@ -20,8 +20,8 @@ pip install numpy pandas scikit-learn matplotlib seaborn scikit-optimize
 The PIMA Diabetes dataset is used for this project. It contains health-related data from PIMA Native American women, including features like glucose levels, blood pressure, and BMI, with the target variable indicating diabetes presence (1) or absence (0).
 
 ## Getting Started
-1. **Clone the repository**: `git clone https://github.com/spexcher/Diabetes_Prediction_with_gridsearchCV_and_bayesian_opimization.git`
-2. **Navigate to project directory**: `cd Diabetes_Prediction_with_gridsearchCV_and_bayesian_opimization`
+1. **Clone the repository**: `git clone https://github.com/spexcher/DiabOptiSVM.git`
+2. **Navigate to project directory**: `cd DiabOptiSVM`
 3. **Run the code**: Follow the code provided in `diabetes_prediction_svm.ipynb` or your Python script.
 
 ## Usage
@@ -41,7 +41,7 @@ Feel free to contribute to this project. Fork the repository and submit pull req
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Contact
-For questions or feedback, please contact [Your Name](mailto:spexcher@gmail.com).
+For questions or feedback, please contact [Gourab Modak](mailto:spexcher@gmail.com).
 
 ## Acknowledgements
 - The PIMA Diabetes dataset is sourced from [source]((https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)).
