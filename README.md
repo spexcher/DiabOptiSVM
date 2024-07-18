@@ -11,9 +11,9 @@ This project uses Support Vector Machines (SVM) to predict diabetes based on the
 - scikit-optimize
 
 Install dependencies using:
-'''
+```
 pip install numpy pandas scikit-learn matplotlib seaborn scikit-optimize
-'''
+```
 
 
 ## Dataset
