@@ -44,4 +44,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
 For questions or feedback, please contact [Gourab Modak](mailto:spexcher@gmail.com).
 
 ## Acknowledgements
-- The PIMA Diabetes dataset is sourced from [source]((https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)).
+- The PIMA Diabetes dataset is sourced from [source](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database).
