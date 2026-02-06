@@ -30,6 +30,12 @@ The PIMA Diabetes dataset is used for this project. It contains health-related d
 - **Model Evaluation**: Evaluate models using accuracy score, classification report, and confusion matrix.
 - **Prediction**: Predict diabetes for new input data.
 
+## 🏗️ System Architecture
+
+The diagram below illustrates the architecture of **DiabOptiSVM**, highlighting the data pipeline.
+
+![DiabOptiSVM Architecture]("./diagrams/DiabOptiSVM architecture.png")
+
 ## Results
 - **Model Performance**: Achieved accuracy of 77% on test data.
 - **Confusion Matrix**: Visual representation of model predictions versus actual outcomes.
