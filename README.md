@@ -34,7 +34,7 @@ The PIMA Diabetes dataset is used for this project. It contains health-related d
 
 The diagram below illustrates the architecture of **DiabOptiSVM**, highlighting the data pipeline.
 
-![DiabOptiSVM Architecture]("./diagrams/DiabOptiSVM architecture.png")
+![DiabOptiSVM Architecture](./diagrams/DiabOptiSVM architecture.png)
 
 ## Results
 - **Model Performance**: Achieved accuracy of 77% on test data.
